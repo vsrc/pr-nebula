@@ -1,0 +1,14 @@
+{
+  "name": "nebula-pr-license-reporter",
+  "version": "1.0.0",
+  "description": "Scan NPM dependencies and create csv",
+  "dependencies": {
+    "npm-registry-fetch": "latest",
+    "csv-write-stream": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "V",
+  "license": "MIT"
+}
