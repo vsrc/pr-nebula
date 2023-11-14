@@ -21,6 +21,8 @@ Given this vast number of dependencies, each with its own licensing terms, manua
 - Node.js and npm environment.
 - npm-registry-fetch, fs, csv-write-stream, and path modules (please run `npm install`)
 
+Ironically this package too like everything else on internet has dependencies. You can see them here: [dependencies](dependencies.md)
+
 ## Installation
 
 1. Clone or Download the project
