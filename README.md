@@ -1,4 +1,4 @@
-# PR-Nebula License Reporter for NPM Packages
+# PR-Nebula - License Reporter for NPM Packages
 ## Introduction
 Welcome to the License Reporter for Node.js Packages! This tool is especially handy for developers who need to ensure compliance with the licenses of the various NPM packages used in their projects. It generates a comprehensive report in CSV format, listing the licenses of all dependencies and development dependencies declared in your project's package.json file.
 
